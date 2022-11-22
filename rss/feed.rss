@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Example Feed</title>
+        <description>News about different IDEs</description>
+        <link>https://github.com/A22OscarNM/ProjectRSSide</link>
+        <pubDate>Sat, 12 Nov 2022 18:30:02 GMT</pubDate>
+        <managingEditor>johndoe@example.com (John Doe)</managingEditor>
+        <item>
+            <title>Eclipse</title>
+            <link>https://github.com/A22OscarNM/ProjectRSSide/blob/master/eclipse.html</link>
+            <pubDate>Sat, 12 Nov 2022 18:30:02 GMT</pubDate>
+            <description>Tricks on eclipse</description>
+        </item>
+        <item>
+            <title>Netbeans</title>
+            <link>https://github.com/A22OscarNM/ProjectRSSide/blob/master/netbeans.html</link>
+            <pubDate>Sat, 12 Nov 2022 18:30:02 GMT</pubDate>
+            <description>Tricks on netbeans</description>
+        </item>
+        <item>
+            <title>Eclipse</title>
+            <link>https://github.com/A22OscarNM/ProjectRSSide/blob/master/Vscode.html</link>
+            <pubDate>Sat, 12 Nov 2022 18:30:02 GMT</pubDate>
+            <description>Tricks on VS code</description>
+        </item>
+    </channel>
+</rss>
